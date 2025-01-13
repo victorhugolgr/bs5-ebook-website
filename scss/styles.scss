@@ -1,0 +1,7 @@
+.navbar .btn-outline-light {
+  border: 1px solid var(--bs-light);
+
+  &:hover {
+    color: var(--bs-dark);
+  }
+}
